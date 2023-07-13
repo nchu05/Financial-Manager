@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FinancialApplication</string>
+    //Headings
+    <string name="heading_one">Quick &amp; Easy Budgeting</string>
+    <string name="heading_two">Meet financial goals</string>
+    <string name="heading_three">Skip time on calculations</string>
+    <string name="heading_fourth">Get ideas for saving money</string>
+
+    //Description
+    <string name="desc_one">Gain Financial Freedom By Allocating Your Money Accurately And Confidently</string>
+    <string name="desc_two">Get A Head Start On All Of Your Money-Making Strategies And Financial Targets</string>
+    <string name="desc_three">Save Time and Effort By Utilizing An Easy-To-Use Interface For Your Money</string>
+    <string name="desc_fourth">Obtain Advice On Budgeting Tactics Beyond What You\'ve Imagined</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
